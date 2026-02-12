@@ -68,7 +68,7 @@ Building real-world apps with clean UI & scalable logic
 ## 🌐 Connect With Me
 
 - 📧 Email: bommanaboinaashok@gmail.com  
-- 💼 LinkedIn: <!-- Animated Header -->
+- 💼 LinkedIn: linkedin.com/in/yourprofile 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Hi,%20I'm%20Ashok%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
